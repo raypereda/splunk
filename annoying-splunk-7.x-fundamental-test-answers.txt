@@ -6,6 +6,10 @@ You have to take the whole test again and try again. The question might
 have many possible test, only a few are true/false.
 That format is annoying, and motivating to post notes here.
 
+I like the video training and the system splunk.
+The splunk tests are poorly written.
+Other people share the same view: https://www.reddit.com/r/Splunk/comments/bbfd2v/failed_splunk_admin_testmiserably/
+
 Question : 1
 Machine data is always structured.
 
